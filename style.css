@@ -134,6 +134,22 @@ body {
     margin-left: 20%;
 }
 
+.htime {
+    font-family:"Lovers Quarrel", cursive;
+    font-weight: 400;
+    font-style: normal;
+font-size: 361%;
+margin-left: 19%;
+}
+
+.ptime {
+    font-family:"Lovers Quarrel", cursive;
+        font-weight: 400;
+        font-style: normal;
+    font-size: 149%;
+    margin-left: 20%;
+}
+
 .audio {
     margin-left: 20%;
     margin-top: 5px;
