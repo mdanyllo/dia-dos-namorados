@@ -148,10 +148,52 @@ margin-left: 19%;
         font-style: normal;
     font-size: 145%;
     margin-left: 20%;
+    margin-bottom: 3%;
 }
 
 .audio {
     margin-left: 20%;
     margin-top: 5px;
     margin-bottom: 5%;
+}
+
+.linkvideo {
+    font-family:"Lovers Quarrel", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150%;
+    text-decoration: none;
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 3%;
+    margin-left: 20%;
+}
+
+.linkvideo:hover {
+    background-color: rgb(238, 237, 237);
+}
+
+.containervideo {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.hvideo{
+    font-family:"Lovers Quarrel", cursive;
+    font-weight: 400;
+    font-style: normal;
+font-size: 350%;
+margin-left: 40%;
+margin-top: 20%;
+}
+
+.video{
+    width: 80%;
+    margin-left: 7%;
+    margin-top: 20%;
+    background-color: #ffffff;
+    padding: 3%;
 }
