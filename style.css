@@ -146,6 +146,15 @@ body {
     margin-bottom: 2%;
 }
 
+.h1dani {
+    font-family:"Lovers Quarrel", cursive;
+    font-weight: 400;
+    font-style: normal;
+font-size: 300%;
+margin-left: 20%;
+margin-bottom: 2%;
+}
+
 .p1{
     font-family:"Lovers Quarrel", cursive;
         font-weight: 400;
@@ -166,7 +175,7 @@ margin-left: 19%;
     font-family:"Lovers Quarrel", cursive;
         font-weight: 400;
         font-style: normal;
-    font-size: 149%;
+    font-size: 140%;
     margin-left: 20%;
     margin-bottom: 3%;
 }
