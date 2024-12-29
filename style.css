@@ -186,17 +186,32 @@ margin-left: 19%;
     margin-bottom: 5%;
 }
 
-.linkvideo {
+.linkvideo{
     font-family:"Lovers Quarrel", cursive;
     font-weight: 400;
     font-style: normal;
-    font-size: 150%;
+    font-size: 250%;
     text-decoration: none;
+    background-color: #ffffff;
     color: #000000;
-    background-color: rgb(255, 255, 255);
     border-radius: 10px;
-    padding: 3%;
-    margin-left: 20%;
+    padding: 2%;
+    margin-left: 24%;
+    margin-bottom: 7%;
+}
+
+.linkvideo_8meses {
+    font-family:"Lovers Quarrel", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200%;
+    text-decoration: none;
+    background-color: #fbc3c3;
+    color: #000000;
+    border-radius: 10px;
+    padding: 2%;
+    margin-top: 2%;
+    margin-left: 58%;
     margin-bottom: 7%;
 }
 
