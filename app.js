@@ -30,7 +30,7 @@ function calculateTimeTogether(startDate) {
     return `${years} ano, ${remainingMonths} meses, ${Math.floor(remainingDays)} dias, ${remainingHours} horas, ${remainingMinutes} minutos, ${remainingSeconds} segundos`;
 }
 
-const startDate = '2023-12-30'; // Data do início do nosso relacionamento
+const startDate = '2023-12-30';
 const timeTogether = calculateTimeTogether(startDate);
 
 document.getElementById('time-together').innerText = timeTogether;
@@ -38,4 +38,4 @@ document.getElementById('time-together').innerText = timeTogether;
 setInterval(() => {
     const timeTogether = calculateTimeTogether(startDate);
     document.getElementById('time-together').innerText = timeTogether;
-}, 1000); // Atualiza a cada segundo
+}, 1000);

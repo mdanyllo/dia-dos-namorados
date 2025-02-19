@@ -277,7 +277,7 @@ margin-top: 20%;
 @keyframes float {
     0% {
         transform: translateY(0) scale(1);
-        opacity: 1;
+        opacity: 0.2;
     }
     100% {
         transform: translateY(-100vh) scale(1.5);
